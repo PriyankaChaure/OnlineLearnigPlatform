@@ -1,0 +1,85 @@
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\bin\Debug\net6.0\Infra.deps.json
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\bin\Debug\net6.0\Infra.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\bin\Debug\net6.0\Infra.pdb
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\refint\Infra.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.pdb
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\ref\Infra.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\bin\Debug\net6.0\Core.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\bin\Debug\net6.0\Core.pdb
+D:\2023\4.30 to 5.30 Eve\EduPortal\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\bin\Debug\net6.0\Infra.deps.json
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\bin\Debug\net6.0\Infra.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\bin\Debug\net6.0\Infra.pdb
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\bin\Debug\net6.0\Core.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\bin\Debug\net6.0\Core.pdb
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\refint\Infra.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.pdb
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Infra\obj\Debug\net6.0\ref\Infra.dll
+D:\5-5-2024\Infra\bin\Debug\net6.0\Infra.deps.json
+D:\5-5-2024\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+D:\5-5-2024\Infra\bin\Debug\net6.0\Infra.dll
+D:\5-5-2024\Infra\bin\Debug\net6.0\Infra.pdb
+D:\5-5-2024\Infra\bin\Debug\net6.0\Core.dll
+D:\5-5-2024\Infra\bin\Debug\net6.0\Core.pdb
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.dll
+D:\5-5-2024\Infra\obj\Debug\net6.0\refint\Infra.dll
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.pdb
+D:\5-5-2024\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+D:\5-5-2024\Infra\obj\Debug\net6.0\ref\Infra.dll
+C:\Prachi\CourseProject\Infra\bin\Debug\net6.0\Infra.deps.json
+C:\Prachi\CourseProject\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+C:\Prachi\CourseProject\Infra\bin\Debug\net6.0\Infra.dll
+C:\Prachi\CourseProject\Infra\bin\Debug\net6.0\Infra.pdb
+C:\Prachi\CourseProject\Infra\bin\Debug\net6.0\Core.dll
+C:\Prachi\CourseProject\Infra\bin\Debug\net6.0\Core.pdb
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.dll
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\refint\Infra.dll
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.pdb
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+C:\Prachi\CourseProject\Infra\obj\Debug\net6.0\ref\Infra.dll
+C:\Dk\chaure\CourseProject\Infra\bin\Debug\net6.0\Infra.deps.json
+C:\Dk\chaure\CourseProject\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+C:\Dk\chaure\CourseProject\Infra\bin\Debug\net6.0\Infra.dll
+C:\Dk\chaure\CourseProject\Infra\bin\Debug\net6.0\Infra.pdb
+C:\Dk\chaure\CourseProject\Infra\bin\Debug\net6.0\Core.dll
+C:\Dk\chaure\CourseProject\Infra\bin\Debug\net6.0\Core.pdb
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.dll
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\refint\Infra.dll
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.pdb
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+C:\Dk\chaure\CourseProject\Infra\obj\Debug\net6.0\ref\Infra.dll

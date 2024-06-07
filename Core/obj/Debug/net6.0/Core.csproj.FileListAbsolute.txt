@@ -1,0 +1,60 @@
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\bin\Debug\net6.0\Core.deps.json
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\bin\Debug\net6.0\Core.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\bin\Debug\net6.0\Core.pdb
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\refint\Core.dll
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\Core.pdb
+D:\2023\4.30 to 5.30 Eve\EduPortal\Core\obj\Debug\net6.0\ref\Core.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\bin\Debug\net6.0\Core.deps.json
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\bin\Debug\net6.0\Core.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\bin\Debug\net6.0\Core.pdb
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\refint\Core.dll
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\Core.pdb
+D:\2023\4.30 to 5.30 Eve\22-04-2024\Core\obj\Debug\net6.0\ref\Core.dll
+D:\5-5-2024\Core\bin\Debug\net6.0\Core.deps.json
+D:\5-5-2024\Core\bin\Debug\net6.0\Core.dll
+D:\5-5-2024\Core\bin\Debug\net6.0\Core.pdb
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.dll
+D:\5-5-2024\Core\obj\Debug\net6.0\refint\Core.dll
+D:\5-5-2024\Core\obj\Debug\net6.0\Core.pdb
+D:\5-5-2024\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\CourseProject\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\CourseProject\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\CourseProject\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\CourseProject\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Dk\chaure\CourseProject\Core\bin\Debug\net6.0\Core.deps.json
+C:\Dk\chaure\CourseProject\Core\bin\Debug\net6.0\Core.dll
+C:\Dk\chaure\CourseProject\Core\bin\Debug\net6.0\Core.pdb
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.dll
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\Core.pdb
+C:\Dk\chaure\CourseProject\Core\obj\Debug\net6.0\ref\Core.dll
